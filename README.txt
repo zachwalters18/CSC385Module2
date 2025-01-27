@@ -2,7 +2,10 @@
 This folder includes three separate files titled, Main, Product, and Inventory, each with an important task that
 allows users to add products, update product information, delete products, and view the current inventory. The
 system was created with Java and incorporates the data structure ArrayList, in order to contain the inventory.
-I believe that it may only be able to run if all the files are in the same folder.
+I believe that it may only be able to run if all the files are in the same folder. If it says that main is not
+unique in the workspace, then I have been hitting fix and entering whatever appears at the search bar at the top.
+If it does not appear in your downloads when you download the zip, then drag and drop the file in after downloading
+from web browser.
 
 *Product*
 The Product class contains variables that each new product that is dealt with will contain, setters and getters
